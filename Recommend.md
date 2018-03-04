@@ -24,7 +24,7 @@ Resources
     - [Trask @iamtrask](https://twitter.com/iamtrask)
     - [Pieter Abbeel @pabbeel](https://twitter.com/pabbeel)
     - [Chris Olah @ch402](https://twitter.com/ch402)
-    - [Nando de Freitas @NandoDF](https://twitter.com/NandoDF)
+    - [Nando de Freitas @NandoDF](https://twitter.com/NandoDF)
 
-- []()
+
 
