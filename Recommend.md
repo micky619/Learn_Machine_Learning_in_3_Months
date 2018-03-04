@@ -9,3 +9,7 @@ According to llSourcell [Learn Machine Learning in 3 Months](https://www.youtube
 
 - Resources
   - [Siraj Raval - YouTube](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/featured)
+  - [Machine Learning - Reddit](https://www.reddit.com/r/MachineLearning/)
+  - [Twitter](https://twitter.com)
+  > Twitter acts that a learning feed, if you use it in a right way. —— @sirajraval
+  - []()
