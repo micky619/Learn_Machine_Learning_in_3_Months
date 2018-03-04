@@ -1,4 +1,8 @@
-According to llSourcell [Learn Machine Learning in 3 Months](https://www.youtube.com/watch?v=Cr6VqTRO1v0), 
+### According to llSourcell [Learn Machine Learning in 3 Months](https://www.youtube.com/watch?v=Cr6VqTRO1v0) 
+
+#### Sponge Mode
+
+![](https://i.imgur.com/okfzknX.png)
 
 The recommend paylists watching order on llSourcell youtube channel
 
@@ -10,8 +14,10 @@ The recommend paylists watching order on llSourcell youtube channel
 Resources
 - [Siraj Raval - YouTube](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/featured)
 - [Machine Learning - Reddit](https://www.reddit.com/r/MachineLearning/)
+- [Hacker News](https://news.ycombinator.com) — must hve
 - [Twitter](https://twitter.com)
-  
+
+
   > Twitter acts that a learning feed, if you use it in a right way. —— @sirajraval
 
 ​	Who to follow:
@@ -28,3 +34,6 @@ Resources
 
 
 
+#### Code Mode
+
+![](https://i.imgur.com/8RX4iis.png)
