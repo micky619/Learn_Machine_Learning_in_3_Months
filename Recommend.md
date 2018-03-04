@@ -8,4 +8,4 @@ According to llSourcell [Learn Machine Learning in 3 Months](https://www.youtube
 4. [Intro to Deep Learning (Udacity Nanodegree)](https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
 
 - Resources
- - [Siraj Raval - YouTube](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/featured)
+  - [Siraj Raval - YouTube](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/featured)
